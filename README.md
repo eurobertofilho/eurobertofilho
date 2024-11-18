@@ -21,15 +21,6 @@
   <li><strong>ExpressJS</strong>: Framework para NodeJS que facilita a construção de APIs e aplicativos web.</li>
 </ul>
 
-<h2>📊 Estatísticas</h2>
-
-<div align="center">
-  <a href="https://github.com/eurcvf">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eurcvf&show_icons=true&theme=holi&include_all_commits=true&hide_border=true" width="430px"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eurcvf&layout=compact&langs_count=8&theme=holi&hide_border=true" width="410px"/>
-  </a>
-</div>
-
 <br />
 
 <div align="center">
