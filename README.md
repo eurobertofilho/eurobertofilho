@@ -6,7 +6,7 @@
 
 <p>Minha jornada no desenvolvimento de software me levou a me especializar em <strong>desenvolvimento FullStack</strong>, onde consigo trabalhar tanto no frontend quanto no backend, criando soluções completas e eficientes. No <strong>frontend</strong>, meu foco é em <strong>ReactJS</strong>, que me permite criar interfaces dinâmicas, responsivas e de alto desempenho. No <strong>backend</strong>, utilizo <strong>NodeJS</strong> e <strong>Java</strong> para criar APIs robustas e escaláveis.</p>
 
-<p>Além disso, sou fluente no uso de bancos de dados relacionais, como <strong>MySQL</strong> e <strong>PostgreSQL</strong>, para garantir uma gestão eficiente dos dados. Também tenho experiência com <strong>versionamento de código</strong> usando Git, e sou apaixonado por boas práticas de desenvolvimento, como TDD, integração contínua e design patterns.</p>
+<p>Além disso, faço a utilização de bancos de dados relacionais, como <strong>MySQL</strong> e <strong>PostgreSQL</strong>, para garantir uma gestão eficiente dos dados. Também tenho experiência com <strong>versionamento de código</strong> usando Git, e sou apaixonado por boas práticas de desenvolvimento, como TDD, integração contínua e design patterns.</p>
 
 <h2>🛠️ Tecnologias</h2>
 
