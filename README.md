@@ -10,18 +10,7 @@
 
 <h2>🛠️ Tecnologias</h2>
 
-<ul>
-  <li><strong>ReactJS</strong>: Biblioteca JavaScript para construção de interfaces de usuário interativas e componentes reutilizáveis.</li>
-  <li><strong>NodeJS</strong>: Plataforma JavaScript para desenvolvimento de servidores e APIs escaláveis.</li>
-  <li><strong>Java</strong>: Linguagem robusta para o desenvolvimento de aplicações backend de grande escala.</li>
-  <li><strong>MySQL</strong>: Banco de dados relacional para armazenamento e gerenciamento eficiente de dados.</li>
-  <li><strong>PostgreSQL</strong>: Banco de dados relacional open-source, altamente escalável e com suporte a dados complexos.</li>
-  <li><strong>Git</strong>: Controle de versão para gerenciar o código e colaborar com equipes de forma eficiente.</li>
-  <li><strong>Docker</strong>: Containerização de aplicativos para garantir consistência entre ambientes de desenvolvimento e produção.</li>
-  <li><strong>ExpressJS</strong>: Framework para NodeJS que facilita a construção de APIs e aplicativos web.</li>
-</ul>
-
-<br />
+ReactJS | NodeJS | SQL | Javascript | Typescript
 
 <div align="center">
   <p>Desenvolver é transformar ideias em realidade. Vamos codificar o futuro!</p>
